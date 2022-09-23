@@ -23,7 +23,7 @@
             <a href="index.php">SARPRAS</a>
         </div>
         <div class="data-siswa">
-            <a href="datasiswa.php"><i class="fa-regular fa-user"></i> Data Siswa</a>
+            <a href="datasiswa.php" class="actived"><i class="fa-regular fa-user"></i> Data Siswa</a>
         </div>
         <div class="data-barang">
             <a href="databarang.php"><i class="fa-solid fa-box"></i> Data Barang</a>

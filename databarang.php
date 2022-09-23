@@ -26,7 +26,7 @@
             <a href="datasiswa.php"><i class="fa-regular fa-user"></i> Data Siswa</a>
         </div>
         <div class="data-barang">
-            <a href="databarang.php"><i class="fa-solid fa-box"></i> Data Barang</a>
+            <a href="databarang.php" class="actived"><i class="fa-solid fa-box"></i> Data Barang</a>
         </div>
     </div>
     <!-- sidebar -->

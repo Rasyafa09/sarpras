@@ -44,6 +44,13 @@ body{
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    transition: 0.3s;
+}
+.sidebar .data-siswa a:hover, .data-barang a:hover{
+    color: black;
+}
+.sidebar .data-barang .actived{
+    color: #000000;
 }
 /* sidebar */
 .content .textdata p{
